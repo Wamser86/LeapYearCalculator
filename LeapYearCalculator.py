@@ -1,5 +1,3 @@
-
-
 while True:
     eingabe = int(input("Hallo Tony gib dein Jahr ein: "))
 
